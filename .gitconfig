@@ -1,0 +1,6 @@
+[user]
+	name = Andreas Bock
+	email = me@andreasbock.dk
+[core]
+	excludesfile = /Users/assbo/.gitignore_global
+	autocrlf = true
